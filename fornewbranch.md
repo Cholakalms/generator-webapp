@@ -15,3 +15,5 @@ edited in new-simple branch
 
 edited ine new branch
 
+tagging version 1.2
+
